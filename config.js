@@ -2,20 +2,6 @@
 // Ditulis Ulang Oleh WH MODS DEV
 // Credits, jangan dihapus atau diubah!
 
-// - - THANKS TO - -
-// • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • FahriAdison
-// • The.Sad.Boy01
-// • Rlxfly
-// • Rasel comel
-// • ImYanXiao
-// • WH MODS DEV
-// • Xtreshe
-// • Dll
 
 //[!] Jangan Lupa Ganti Ownernya
 
@@ -25,9 +11,9 @@ import { fileURLToPath } from 'url'
 import moment from 'moment-timezone'
 
 /*============= WAKTU =============*/
-let wibh = moment.tz('Asia/Jakarta').format('HH')
-    let wibm = moment.tz('Asia/Jakarta').format('mm')
-    let wibs = moment.tz('Asia/Jakarta').format('ss')
+let wibh = moment.tz('Asia/bandarlampung').format('HH')
+    let wibm = moment.tz('Asia/lampung').format('mm')
+    let wibs = moment.tz('Asia/lampung').format('ss')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
     
     let d = new Date(new Date + 3600000)
@@ -49,13 +35,13 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
-global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sig = '"-"' // ig
+global.sgh = 'https://github.com/agung-bot1' // github
+global.sgc = 'https://chat.whatsapp.com/DHtrL48LYZyJvFKGf7SUkO' // group whatsapp
+global.sdc = '"-"'//discord
+global.snh = '"-"' // my youtube channel
+global.sfb = '"-"' // facebook
+global.syt = '"-"' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
 global.pdana = 'gak di jual' //dana
@@ -64,7 +50,7 @@ global.pgopay = 'gak di jual' //gopay
 global.plinkaja = 'gak di jual' //link aja
 global.ppulsa = 'gak di jual' //telkomsel
 global.ppulsa2 = 'gak di jual' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.psaweria = '"-"'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285794583615'
@@ -73,8 +59,8 @@ global.namebot = 'WH-Agung-BOT-V1'
 global.nameown = 'WH Agung DEV'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
-global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
+global.namagithub = 'agung-bot1' // nama github lu
+global.linkgithub = 'https://github.com/agung-bot1' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
