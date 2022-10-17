@@ -44,12 +44,12 @@ global.sfb = '"-"' // facebook
 global.syt = '"-"' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = 'gak di jual' //dana
-global.povo = 'gak di jual' //ovo
-global.pgopay = 'gak di jual' //gopay
-global.plinkaja = 'gak di jual' //link aja
-global.ppulsa = 'gak di jual' //telkomsel
-global.ppulsa2 = 'gak di jual' // kalau ada kartu lain isi aja
+global.pdana = '"-"' //dana
+global.povo = '"-"' //ovo
+global.pgopay = '"-"' //gopay
+global.plinkaja = '"-"' //link aja
+global.ppulsa = '"-"' //telkomsel
+global.ppulsa2 = '"-"' // kalau ada kartu lain isi aja
 global.psaweria = '"-"'
 
 /*============== NOMOR ==============*/
